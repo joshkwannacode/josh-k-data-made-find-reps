@@ -6,4 +6,4 @@ timezone: America/Chicago
 description: "Enter your address to find and contact your federal, state, county and local elected representatives"
 gems:
   - jekyll-redirect-from
-google_api_key: AIzaSyB13Assdc8bqVYrAv7imJQnyf15edYlnTM
+google_api_key: 
